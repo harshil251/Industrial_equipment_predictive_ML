@@ -20,7 +20,7 @@ The project is developed entirely in **Anaconda (Jupyter Notebook environment)**
 
 📊 Dataset Description
 
-Soure of Data: Kaggle Community Data Set
+Source of Data: Kaggle Community Data Set
 The dataset consists of sensor readings collected from industrial equipment monitored over time.
 
 **Key Characteristics:**
