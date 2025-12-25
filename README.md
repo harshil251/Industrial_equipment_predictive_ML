@@ -126,9 +126,9 @@ Visualization & Interpretation
 
 **Harshil Patel**
 📧 Email: patelhk2005@gmail.com
-🔗 LinkedIn: [](https://www.linkedin.com/in/harshil-patel-56729b221/)
-🔗 GitHub: [](https://github.com/harshil251)
-
+🔗 LinkedIn: [https://linkedin.com/in/harshilpatel](https://www.linkedin.com/in/harshil-patel-56729b221/)
+🔗 GitHub: [ https://github.com/yourusername](https://github.com/harshil251)
+👤 Author
 ---
 
 ⭐ *If you find this project useful, feel free to star the repository!*
